@@ -1,0 +1,32 @@
+
+
+/* footer section  */
+
+  .footer > div {
+    width: 50vw;
+    
+  }
+  footer .footer  .box  {
+    font-size: 1.4rem;
+    
+  }
+  footer .footer  .box .links {
+    font-size: 0.9rem;
+  }
+
+
+
+  .social-links a:hover{
+    
+margin: 0px 2px;
+font-size: 20px;
+color:yellow;
+  }
+
+
+
+  footer .footer-rights{
+    padding: 10px 0;
+font-size: 0.8rem;
+
+}
