@@ -95,7 +95,7 @@ body {
     #home::before {
       content: "";
       position: absolute;
-      background: url('/img/a.jpg') no-repeat center center/cover;
+      background: url('img/a.jpg') no-repeat center center/cover;
       height: 642px;
       top: 0px;
       left: 0px;
